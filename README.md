@@ -18,3 +18,9 @@ Request the following SageMaker quotas on the Service Quotas console:
 - Maximum number of instances per training job: 8–32
 
 Note that it may take up to 24 hours for the quota increase to get approved.
+
+## Contribution
+Fork this repo and submit a PR.
+
+## License
+Licensed under the MIT License.
